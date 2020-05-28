@@ -1,0 +1,16 @@
+{
+  "name": "rhyme-detector",
+  "version": "1.0.0",
+  "description": "Detect and label rhymes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Klaas-Jan Boon",
+  "license": "ISC",
+  "dependencies": {
+    "compromise": "^13.2.0",
+    "compromise-syllables": "0.0.4",
+    "natural": "^2.1.1"
+  }
+}
